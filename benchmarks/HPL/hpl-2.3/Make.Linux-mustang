@@ -66,7 +66,7 @@ ARCH         = Linux-mustang
 # - HPL Directory Structure / HPL library ------------------------------
 # ----------------------------------------------------------------------
 #
-TOPdir       = $(HOME)/hpl-2.3
+TOPdir       = $(HOME)/cloud-desempenho/benchmarks/HPL/hpl-2.3
 INCdir       = $(TOPdir)/include
 BINdir       = $(TOPdir)/bin/$(ARCH)
 LIBdir       = $(TOPdir)/lib/$(ARCH)
